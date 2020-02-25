@@ -3,4 +3,4 @@ resume
 
 My Resume
 
-[Austin Bruch Resume.pdf](http://austinbruch.github.io/resume/Austin Bruch Resume.pdf)
+[Austin Bruch Resume.pdf](https://austinbruch.github.io/resume/Austin%20Bruch%20Resume.pdf)
